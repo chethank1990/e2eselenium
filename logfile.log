@@ -1,0 +1,21 @@
+2020-08-28 19:20:44,804 :INFO : test_FillForm :First Name is Chethan
+2020-08-28 19:20:45,322 :INFO : test_FillForm :First Name is Bindu
+2020-08-28 19:20:45,322 :INFO : test_FillForm :First Name is Bindu
+2020-08-28 19:20:56,993 :INFO : test_e2e :Printing the search results
+2020-08-28 19:20:57,037 :INFO : test_e2e :['Cucumber - 1 Kg', 'Raspberry - 1/4 Kg', 'Strawberry - 1/4 Kg']
+2020-08-28 19:21:01,297 :INFO : test_e2e :Printing the cart results
+2020-08-28 19:21:01,339 :INFO : test_e2e :['Cucumber - 1 Kg', 'Raspberry - 1/4 Kg', 'Strawberry - 1/4 Kg']
+2020-08-28 19:28:02,547 :INFO : test_FillForm :First Name is Chethan
+2020-08-28 19:28:03,062 :INFO : test_FillForm :First Name is Bindu
+2020-08-28 19:28:03,062 :INFO : test_FillForm :First Name is Bindu
+2020-08-28 19:28:14,708 :INFO : test_e2e :Printing the search results
+2020-08-28 19:28:14,758 :INFO : test_e2e :['Cucumber - 1 Kg', 'Raspberry - 1/4 Kg', 'Strawberry - 1/4 Kg']
+2020-08-28 19:28:19,176 :INFO : test_e2e :Printing the cart results
+2020-08-28 19:28:19,229 :INFO : test_e2e :['Cucumber - 1 Kg', 'Raspberry - 1/4 Kg', 'Strawberry - 1/4 Kg']
+2020-08-28 19:30:53,803 :INFO : test_FillForm :First Name is Chethan
+2020-08-28 19:30:54,391 :INFO : test_FillForm :First Name is Bindu
+2020-08-28 19:30:54,391 :INFO : test_FillForm :First Name is Bindu
+2020-08-28 19:31:06,465 :INFO : test_e2e :Printing the search results
+2020-08-28 19:31:06,514 :INFO : test_e2e :['Cucumber - 1 Kg', 'Raspberry - 1/4 Kg', 'Strawberry - 1/4 Kg']
+2020-08-28 19:31:10,787 :INFO : test_e2e :Printing the cart results
+2020-08-28 19:31:10,870 :INFO : test_e2e :['Cucumber - 1 Kg', 'Raspberry - 1/4 Kg', 'Strawberry - 1/4 Kg']
